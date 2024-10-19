@@ -1,6 +1,6 @@
 <br clear="both">
 <h1>Welcome To My Profile</h1>
-<h3 align="left">My name is Muhammad Ashif Raza, and I am a sophomore student pursuing B.tech in Computer Science and Engineering at the esteemed National Institute of Technology, Rourkela (NITR). Additionally, I possess a strong background as a professional full stack web developer, with a solid track record of 4 years of experience in the field. Apart from my academic and professional pursuits, I have a passion for Hindi/Urdu poetry. I take great pleasure in both reading and composing verses in these beautiful languages.</h3>
+<h3 align="left">My name is Muhammad Ashif Raza, and I am a pre-final year student pursuing B.tech in Computer Science and Engineering at the esteemed National Institute of Technology, Rourkela (NITR). Additionally, I possess a strong background as a professional full stack web developer, with a solid track record of 4 years of experience in the field. Apart from my academic and professional pursuits, I have a passion for Hindi/Urdu poetry. I take great pleasure in both reading and composing verses in these beautiful languages.</h3>
 
 ###
 
