@@ -1,4 +1,4 @@
-<br clear="both">
+![image](https://github.com/user-attachments/assets/5776d37f-6e03-4824-946b-94382b1abf89)<br clear="both">
 <h1>Welcome To My Profile</h1>
 <h3 align="left">My name is Muhammad Ashif Raza, and I am a pre-final year student pursuing B.tech in Computer Science and Engineering at the esteemed National Institute of Technology, Rourkela (NITR). Additionally, I possess a strong background as a professional full stack web developer, with a solid track record of 4 years of experience in the field. Apart from my academic and professional pursuits, I have a passion for Hindi/Urdu poetry. I take great pleasure in both reading and composing verses in these beautiful languages.</h3>
 
@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mdashifraza7786/mdashifraza7786/output/snake.svg" alt="Snake animation" />
+<img src="https://www.svgrepo.com/show/8208/snake.svg" alt="Snake animation" />
 
 ###
