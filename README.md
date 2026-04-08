@@ -64,9 +64,7 @@ Beyond  : Freelancing (5 years of experience)
 
 ### `// github stats`
 
-<div align="center">
-
-
+<div align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdashifraza7786&theme=dracula&hide_border=false" height="150" alt="Streak stats" />
 
 </div>
