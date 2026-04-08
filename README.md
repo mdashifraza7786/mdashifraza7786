@@ -1,59 +1,82 @@
-<br clear="both">
-<h1>Welcome To My Profile</h1>
-<h3 align="left">My name is Muhammad Ashif Raza, and I am a final year student pursuing B.tech in Computer Science and Engineering at the esteemed National Institute of Technology, Rourkela (NITR). Additionally, I possess a strong background as a professional full stack web developer, with a solid track record of 4 years of experience in the field. Apart from my academic and professional pursuits, I have a passion for Hindi/Urdu poetry. I take great pleasure in both reading and composing verses in these beautiful languages.</h3>
+<div align="center">
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=36&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Muhammad+Ashif+Raza;Software+Engineer;NIT+Rourkela+%C2%B7+CSE+%2726" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Opportunities-%E2%9C%93-1D9E75?style=flat-square&labelColor=0F6E56&color=1D9E75" />
+&nbsp;
+<img src="https://img.shields.io/badge/NIT%20Rourkela-B.Tech%20CSE-7F77DD?style=flat-square&labelColor=534AB7" />
+&nbsp;
+<img src="https://img.shields.io/badge/Freelancing%20Experience-5%20Years-D85A30?style=flat-square&labelColor=993C1D" />
+</div>
+
+---
+
+### `whoami`
+
+```
+Name    : Muhammad Ashif Raza  
+Occup   : Software Engineer  
+College : NIT Rourkela — B.Tech, Computer Science & Engineering  
+Batch   : 2026  
+Beyond  : Freelancing (5 years of experience)  
+```
+
+> *Silently shipping things that matter.*
+
+---
+
+### `// tech stack`
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+---
+
+### `// github stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdashifraza7786&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdashifraza7786&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdashifraza7786&theme=dracula&hide_border=false" height="150" alt="Streak stats" />
+
 </div>
 
-###
+---
+
+### `// find me`
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+
+<a href="https://www.instagram.com/muhammad_ashif_r" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Instagram" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-ashif-r/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="LinkedIn" />
+</a>
+
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/muhammad_ashif_r" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-ashif-r/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BbwEbn7ccR4GvwLoSaY6G7w%3D%3D" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-
-
-###
+---
